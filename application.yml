@@ -1,6 +1,4 @@
-server:
-  port: 8763
-
-test:
-  name: Azeez Paloor
-  phone: 9620897195
+message: This is a message1
+foo: Foo1
+bar: BAR1
+baz: BAZ1
